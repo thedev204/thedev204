@@ -4,7 +4,10 @@ I’m a Full Stack Developer with strong industry experience building scalable, 
 
 Beyond app development, I'm passionate about interactive design, problem-solving, and continuous learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv20)
+<p align="left">
+  <a href="https://linkedin.com/in/dhruv20"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open%20To%20Work-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work" />
+</p>
 
 ## 🛠 Tech Stack
 
